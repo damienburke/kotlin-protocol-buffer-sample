@@ -1,0 +1,1 @@
+Based on https://devlach.com/blog/kotlin/guide-to-using-protocol-buffers-with-kotlin
